@@ -6,3 +6,4 @@
 @media(max-width:600px){.scale{grid-template-columns:repeat(6,minmax(0,1fr));gap:6px}.scale label{min-height:44px;font-size:13px}.scale-end{gap:15px}.scale-end span:last-child{text-align:right}}
 .register-info details{border-top:1px solid #cadbcf;margin-top:17px;padding-top:13px}.register-info summary{cursor:pointer;font-weight:700;color:var(--forest);list-style-position:outside}.register-info details[open] summary{margin-bottom:14px}.register-choice{border:0;padding:0;margin:0 0 25px;min-width:0}.register-choice legend{font-size:17px;font-weight:700;line-height:1.4;margin-bottom:13px}.register-choice .choice{margin-bottom:8px}.register-choice .note{margin:8px 0 0}
 .register-id-note{margin:-7px 0 22px;color:#455d53;font-size:14px}
+input[type=email]{width:100%;border:1px solid #bfcfc2;background:white;border-radius:5px;padding:13px 15px;color:var(--ink)}input[type=email]:focus{outline:2px solid #5e9175;outline-offset:1px}
